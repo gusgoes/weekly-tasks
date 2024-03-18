@@ -3,6 +3,6 @@
 
 #by Gustavo Goes Fernandes
 
-I work at [ATU](https://www.atu.ie/).
-
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+
+The Data set is avaiable on [GitHub](https://allisonhorst.github.io/palmerpenguins/).
