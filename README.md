@@ -6,3 +6,8 @@
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
 The Data set is avaiable on [GitHub](https://allisonhorst.github.io/palmerpenguins/).
+
+
+```bash
+$ python script.py
+```
