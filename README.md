@@ -27,13 +27,13 @@ The *describe* function in *pandas* shows some basic statistics such and means, 
 
 ![Iris Dataset Descriptive Statistics](penguins_mean.png)
 
-![Iris Dataset Descriptive Statistics](is_Biscoe_histograms.PNG)
-![Iris Dataset Descriptive Statistics](is_Dream_histograms.PNG)
-![Iris Dataset Descriptive Statistics](is_Tprgersen_histograms.PNG)
+![Iris Dataset Descriptive Statistics](is_Biscoe_histograms.png)
+![Iris Dataset Descriptive Statistics](is_Dream_histograms.png)
+![Iris Dataset Descriptive Statistics](is_Tprgersen_histograms.png)
 
-![Iris Dataset Descriptive Statistics](sp_Adelie_histograms.PNG)
-![Iris Dataset Descriptive Statistics](sp_Chinstrap_histograms.PNG)
-![Iris Dataset Descriptive Statistics](sp_Gentoo_histograms.PNG) 
+![Iris Dataset Descriptive Statistics](sp_Adelie_histograms.png)
+![Iris Dataset Descriptive Statistics](sp_Chinstrap_histograms.png)
+![Iris Dataset Descriptive Statistics](sp_Gentoo_histograms.png) 
 
 ### 4.2 Data Visualisation
 It may be beneficial at this stage to visualise the data and the relationships between measurements to see if any patterns emerge. For this I utilised a *seaborn* pair plot ([Kadam, 2017](https://github.com/ashKadam/IrisDataAnalysis/blob/master/Iris.py); [Mittapalli, 2018](https://medium.com/@harimittapalli/exploratory-data-analysis-iris-dataset-9920ea439a3e); [Rathod, 2017](https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Iris%20Species%20Dataset%20Visualization.ipynb)) which pairs every feature with every other feature, distinguished by object-type. A pair plot outputs a mixture of two-dimensional scatter plots, that show the relationships between measurements, and univariate histograms that show the distribution of each measurement separated by species.
