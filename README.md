@@ -25,16 +25,19 @@ This part of the project, I will be used *pandas* and *matplotlib* to read the d
 ### 4.1 Basic Statistics
 The *describe* function in *pandas* shows some basic statistics such and means, histogran and medians per island and per species. 
 
-![Iris Dataset Descriptive Statistics](penguins_mean.png)
-![Iris Dataset Descriptive Statistics](penguins_mass.png)
+#### By Island:
 
-![Iris Dataset Descriptive Statistics](is_Biscoe_histograms.png)
-![Iris Dataset Descriptive Statistics](is_Dream_histograms.png)
-![Iris Dataset Descriptive Statistics](is_Torgersen_histograms.png)
+![Iris Dataset Descriptive Statistics](island_billlenght.png)
+![Iris Dataset Descriptive Statistics](island_body_mass.png)
+![Iris Dataset Descriptive Statistics](island_flipperlenght.png)
+![Iris Dataset Descriptive Statistics](island_mass.png)
 
-![Iris Dataset Descriptive Statistics](sp_Adelie_histograms.png)
-![Iris Dataset Descriptive Statistics](sp_Chinstrap_histograms.png)
-![Iris Dataset Descriptive Statistics](sp_Gentoo_histograms.png) 
+#### By Species:
+
+![Iris Dataset Descriptive Statistics](penguins_billdepht.png)
+![Iris Dataset Descriptive Statistics](penguins_billlenght.png)
+![Iris Dataset Descriptive Statistics](penguins_flipperlenght.png)
+![Iris Dataset Descriptive Statistics](penguins_mass.png) 
 
 ### 4.2 Data Visualisation
 It may be beneficial at this stage to visualise the data and the relationships between measurements to see if any patterns emerge. 
