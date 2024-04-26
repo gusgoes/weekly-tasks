@@ -27,17 +27,17 @@ The *describe* function in *pandas* shows some basic statistics such and means, 
 
 #### By Island:
 
-![Iris Dataset Descriptive Statistics](island_billlenght.png)
-![Iris Dataset Descriptive Statistics](island_body_mass.png)
-![Iris Dataset Descriptive Statistics](island_flipperlenght.png)
-![Iris Dataset Descriptive Statistics](island_mass.png)
+![Penguins Dataset Descriptive Statistics](island_billlenght.png)
+![Penguins Dataset Descriptive Statistics](island_body_mass.png)
+![Penguins Dataset Descriptive Statistics](island_flipperlenght.png)
+![Penguins Dataset Descriptive Statistics](island_mass.png)
 
 #### By Species:
 
-![Iris Dataset Descriptive Statistics](penguins_billdepht.png)
-![Iris Dataset Descriptive Statistics](penguins_billlenght.png)
-![Iris Dataset Descriptive Statistics](penguins_flipperlenght.png)
-![Iris Dataset Descriptive Statistics](penguins_mass.png) 
+![Penguins Dataset Descriptive Statistics](penguins_billdepht.png)
+![Penguins Dataset Descriptive Statistics](penguins_billlenght.png)
+![Penguins Dataset Descriptive Statistics](penguins_flipperlenght.png)
+![Penguins Dataset Descriptive Statistics](penguins_mass.png) 
 
 #### 4.4.1 Data Analisis
 
