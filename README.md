@@ -39,11 +39,6 @@ The *describe* function in *pandas* shows some basic statistics such and means, 
 ![Penguins Dataset Descriptive Statistics](penguins_flipperlenght.png)
 ![Penguins Dataset Descriptive Statistics](penguins_mass.png) 
 
-#### 4.4.1 Data Analisis
-
-
-#### 4.4.3 Correlations
-
 ## 5. Conclusion
 
 The exploratory data analysis performed in this investigation uncovered many interesting details about the palmer penguins dataset but the main points of note are:
